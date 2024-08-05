@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"TreeBuilderClassTest::testBuild":0.008,"TreeNodeClassTest::testGetName":0,"TreeNodeClassTest::testGetChildren":0,"TreeNodeClassTest::testSetChildren":0,"TreeNodeClassTest::testAddChild":0,"TreeNodeClassTest::testToArray":0}}
